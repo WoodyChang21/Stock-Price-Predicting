@@ -54,14 +54,15 @@ This repository contains a comprehensive project aimed at predicting Microsoft s
 ## **Evaluation**
 - The project evaluates the robustness of predictive models and trading algorithms using:
   - Train/Test financial performance metrics
-  - Statistical tests to check for overfitting and bias
+  - Statistical tests to check for overfitting and biasb (White Reality Check, Monte Carlo Permutation)
 
 ---
 
 ## **Future Enhancements**
 1. Extend the trading algorithm to include other financial instruments.
-2. Experiment with additional feature selection and extraction techniques.
-3. Incorporate real-time data for live predictions and trades.
+2. Integrate the feature selection into the training pipeline
+3. Experiment with additional feature selection and extraction techniques.
+4. Incorporate real-time data for live predictions and trades.
 
 ---
 
