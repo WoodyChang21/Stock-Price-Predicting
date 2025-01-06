@@ -1,6 +1,6 @@
 # Microsoft Stock Prediction and Trading Algorithm
 
-This repository contains a comprehensive project aimed at predicting Microsoft stock prices and building a robust trading algorithm. It leverages advanced machine learning techniques, feature engineering, and financial metrics for evaluation. Below is an overview of the project and its components.
+This repository is based on seed code from the [fin-ml GitHub repository](https://github.com/tatsath/fin-ml/blob/master/Chapter%205%20-%20Sup.%20Learning%20-%20Regression%20and%20Time%20Series%20models/Case%20Study%201%20-%20Stock%20Price%20Prediction/StockPricePrediction.ipynb). Enhancements were made to the seed code by incorporating additional feature engineering techniques, implementing advanced machine learning models, and evaluating the results with comprehensive financial metrics and statistical tests. Below is an overview of the project and its components.
 
 ---
 
